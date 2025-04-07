@@ -419,16 +419,16 @@ export default {
         }
       ],
       teams: [
-        { id: 1, name: 'Mumbai Indians', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-M umbai_Indians_Logo.svg.png' },
-        { id: 2, name: 'Chennai Super Kings', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png' },
+        { id: 1, name: 'Mumbai Indians', logo: '/src/components/img/download__2_-removebg-preview.png' },
+        { id: 2, name: 'Chennai Super Kings', logo: '/src/components/img/download__2_-removebg-preview (1).png' },
         { id: 3, name: 'Royal Challengers', logo: '/src/components/img/RCB-removebg-preview.png' },
-        { id: 4, name: 'Kolkata Knight Riders', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png' },
-        { id: 5, name: 'Delhi Capitals', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Delhi_Capitals_Logo.svg/1200px-Delhi_Capitals_Logo.svg.png' },
-        { id: 6, name: 'Punjab Kings', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png' },
-        { id: 7, name: 'Rajasthan Royals', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rajasthan_Royals_Logo.svg/1200px-Rajasthan_Royals_Logo.svg.png' },
-        { id: 8, name: 'Sunrisers Hyderabad', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png' },
-        { id: 9, name: 'Gujarat Titans', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Gujarat_Titans_Logo.svg/1200px-Gujarat_Titans_Logo.svg.png' },
-        { id: 10, name: 'Lucknow Super Giants', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Lucknow_Super_Giants_Logo.svg/1200px-Lucknow_Super_Giants_Logo.svg.png' }
+        { id: 4, name: 'Kolkata Knight Riders', logo: '/src/components/img/download__3_-removebg-preview.png' },
+        { id: 5, name: 'Delhi Capitals', logo: '/src/components/img/download__1_-removebg-preview (1).png' },
+        { id: 6, name: 'Punjab Kings', logo: '/src/components/img/download__4_-removebg-preview.png' },
+        { id: 7, name: 'Rajasthan Royals', logo: '/src/components/img/download-removebg-preview (7).png' },
+        { id: 8, name: 'Sunrisers Hyderabad', logo: '/src/components/img/download-removebg-preview (8).png' },
+        { id: 9, name: 'Gujarat Titans', logo: '/src/components/img/download-removebg-preview (9).png' },
+        { id: 10, name: 'Lucknow Super Giants', logo: '/src/components/img/download__1_-removebg-preview.png' }
       ],
       venues: [
         {
